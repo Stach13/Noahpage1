@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <h1>
+        <ul name="Capitalized">Ballad of Booker T.</ul>
+        <author>by Langston Hughes</author>
+    </h1>
+    <p>
+        <name>Booker T.</name>
+        <characteristics type="personality">Was a practical man.</characteristics>
+        <sentence>
+            <reference line="3">He said, Till the soil</reference>
+            <property line="4">And learn from the land.</property>
+        </sentence>
+        <stamp>
+            <img>Library of Congress</img>
+            <my description="align">Upper right and slightly centered of page</my>
+            <behind_text logo="height">"Let down your bucket"...."And your fallen man"</behind_text>
+        </stamp>
+        <sentence>
+            <command line="5">Let down your bucket</command>
+            <location line="6">Where you are.</location>
+        </sentence>
+        <sentence>
+            <decent line="7">Your fate is here</decent>
+            <approaching line="8">And not afar.</approaching>
+        </sentence>
+        <sentence>
+            <you line="9">To help yourself</you>
+            <friend line="10">And your fellow man,</friend>
+            <mind line="11">Train your head,</mind>
+            <body line="12">Your heart, and your hand.</body>
+        </sentence>
+        <sentence>
+            <intelligence line="13">For smartness alone's</intelligence>
+            <unknown line="14">Surely not meet—</unknown>
+            <unknown line="15">If you haven't at the same time</unknown>
+            <unknown line="16">Got something to eat.</unknown>
+            <!--couldn't interpret the lines in the poem in this sentence, thus "unknown" element-->
+        </sentence>
+        <sentence>
+            <location line="17">Thus at Tuskegee</location>
+            <Booker_T. line="18">He built a school</Booker_T.>
+            <education line="19">With book-learning there</education>
+            <tool line="20">And the workman's tool.</tool>
+        </sentence>
+        <sentence>
+            <began line="21">He started out</began>
+            <effortless line="22">In a simple way—</effortless>
+            <past line="23">For yesterday</past>
+            <present line="24">Was not today.</present>
+        </sentence>
+        <sentence>
+            <possession line="25">Sometimes he had </possession>
+            <diction line="26">Compromise in his talk—</diction>
+            <began line="26">For a man must crawl</began>
+            <ascend line="27">Before he can walk—</ascend>
+            <history line="28">And in Alabama in '85</history>
+            <nickname line="29">A joker was lucky</nickname>
+            <living line="30">To be alive.</living>
+        </sentence>
+        <sentence>
+            <main_man line="31">But Booker T.</main_man>
+            <smart line="32">Was nobody's fool:</smart>
+            <career line="33">You may carve a dream</career>
+            <wisdom line="34">With an humble tool.</wisdom>
+        </sentence>
+        <sentence>
+            <building line="35">The tallest tower</building>
+            <demolished line="36">Can tumble down</demolished>
+            <stability line="37">If it be not rooted</stability>
+            <firm line="38">In solid ground.</firm>
+        </sentence>
+        <sentence>
+            <knowledge line="39">So, being a far-seeing</knowledge>
+            <character line="40">Practical man,</character>
+            <mentality line="41">He said, Train your head,</mentality>
+            <motives line="42">Your heart, and your hand.</motives>
+        </sentence>
+        <sentence>
+            <decent line="43">Your fate is here</decent>
+            <approaching line="44">And not afar,</approaching>
+            <drop line="45">So let down your bucket</drop>
+            <loaction line="46">Where you are.</loaction>
+        </sentence>
+    </p>
+    <h2>
+        <author handwritten="signature">LANGSTON HUGHES</author>
+        <document>Final Draft,</document>
+        <place>Hollow Hills Farm,
+            Monterey, California,</place>
+        <date>June 1, 1941.</date>
+    </h2>
+
+</root>
