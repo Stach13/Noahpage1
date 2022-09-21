@@ -1,0 +1,40 @@
+start = root 
+root = element root {title, author, year, poem+, p+, metadata}
+    title = element title {text}
+    author = element author {text}
+    year = element year {xsd:int}
+    poem = element poem {xsd:int}
+    
+    p = element p {mixed {intro | analogy | autumn* | strength*|
+    beauty* | filth* | cycle* | natural_behavior | captivate | adventure | the_unknown | remember | time | forget | loss* | metaphor | temporary* |
+    blending | exaggeration | powerful | disappear | unique}}
+
+intro = element intro {text}
+analogy = element analogy {text}
+autumn = element autumn {text}
+strength = element strength {text}
+beauty = element beauty {text} 
+filth = element filth {text}
+cycle = element cycle {text} 
+natural_behavior = element natural_behavior {text} 
+captivate = element captivate {text}
+adventure = element adventure {text} 
+the_unknown = element the_unknown {text}
+remember = element remember {text}
+time = element time {text}
+forget = element forget {text}
+loss = element loss {text} 
+metaphor = element metaphor {text}
+temporary = element temporary {text}
+blending = element blending {text} 
+exaggeration = element exaggeration {text} 
+powerful = element powerful {text} 
+disappear = element disappear {text} 
+unique = element unique {text}
+
+n = attribute n {xsd:int} 
+b = attribute b {xsd:int}
+c = attribute c {xsd:int}
+
+metadata = element metadata {text}
+

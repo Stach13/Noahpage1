@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <title>Leaves</title>
+    <author>Lloyd Schwartz</author>
+    <year>1941</year>
+    <poem>1</poem>
+
+    <p>
+        <intro>Every October it becomes important, no, necessary</intro>
+        <analogy>to see the leaves turning, to be surrounded by leaves turning; it's not just the
+            symbolism,</analogy>
+        <autumn n="1">to confront in the death of the year your death,</autumn>
+        <strength n="1">one blazing farewell appearance,</strength>
+        <strength n="2">though the irony isn't lost on you that nature is most seductive when it's
+            about to die, </strength>
+        <beauty b="1">flaunting the dazzle of its incipient exit,</beauty>
+        <filth n="1">an ending that at least so far the effects of human progress (pollution, acid
+            rain)</filth>
+        <strength n="3">have not yet frightened you enough to make you believe is real;</strength>
+        <cycle c="1">that is, you know this ending is a deception because of course nature is always
+            renewing itself—</cycle>
+        <natural_behavior>the trees don't die, they just pretend,</natural_behavior>
+        <cycle c="2">go out in style, and return in style: a new style.</cycle>
+    </p>
+
+    <poem>2</poem>
+    <p>
+        <captivate>Is it deliberate how far they make you go</captivate>
+        <adventure>especially if you live in the city to get far enough away from home to see not
+            just trees but only trees?</adventure>
+        <filth n="2">The boring highways, roadsigns, high speeds, 10-axle trucks passing you as if
+            they were in an even greater hurry than you to look at leaves:</filth>
+        <the_unknown>so you drive in terror for literal hours and it looks like rain, or snow, but
+            it's probably just clouds (too cloudy to see any color?)</the_unknown>
+        <remember>and you wonder, given the poverty of your memory,</remember>
+        <autumn n="2">which road had the most color last year,</autumn>
+        <time>but it doesn't matter since you're probably too late anyway, or too early—</time>
+        <forget>which road had the most color last year,</forget>
+        <loss n="1">and you've probably come all this way for nothing.</loss>
+    </p>
+
+    <poem>3</poem>
+    <p>
+        <loss n="2">You'll be driving along depressed when suddenly</loss>
+        <metaphor>a cloud will move and the sun will muscle through and ignite the hills.</metaphor>
+        <temporary n="1"> It may not last. Probably won't last.</temporary>
+        <beauty b="2">But for a moment the whole world comes to. Wakes up. Proves it lives.</beauty>
+        <autumn n="3">It lives— red, yellow, orange, brown, russet, ocher, vermilion, gold.</autumn>
+        <blending>Flame and rust. Flame and rust, the permutations of burning.</blending>
+        <exaggeration>You're on fire. Your eyes are on fire.</exaggeration>
+        <powerful>It won't last, you don't want it to last. You can't stand any more. </powerful>
+        <beauty b="3">But you don't want it to stop. </beauty>
+        <cycle c="3">It's what you've come for. It's what you'll come back for.</cycle>
+        <disappear>It won't stay with you,</disappear>
+        <unique>but you'll remember that it felt like nothing else you've felt</unique>
+        <temporary n="2">or something you've felt that also didn't last.</temporary>
+    </p>
+    
+    <metadata>Copyright © 1992 by Lloyd Schwartz. From Goodnight, Gracie (The University of Chicago Press, 1992). Appears courtesy of the author.</metadata>
+</root>
