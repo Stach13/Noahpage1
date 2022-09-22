@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Documents/GitHub/Noahpage1/relax_ng2/StacheraExercise1.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <h1>
+        <from>[Letter from Marian Baldwin, June 30, 1917]</from>
+        <location>On Board La Touraine,</location>
+        <date>June 30th, 1917.</date>
+    </h1>
+
+    <p>
+        <actions e="1">Even now that we are out of sight of land,</actions>
+        <feelings n="1">it seems impossible</feelings>
+        <actions e="2"> that I am actually off to France and, for the first time in my life,
+            traveling alone.</actions>
+        <actions e="3">Everything has happened so quickly since the</actions>
+        <acronym>American Fund for French Wounded</acronym>
+        <abbr>A.F.F.W</abbr> 
+        <actions e="4">found an opening for me in Paris that I suppose I am still somewhat</actions>
+        <feelings n="2">dazed and bewildered.</feelings>
+        <feelings n="3">The fact that I don't know what it will all be like and that I can't look
+            ahead makes it easier to be happy and live in the present.</feelings>
+        <line>Of course I have had a bit of a taste in New York of the work that the A. F.
+            F. W. is doing but its Headquarters in Paris will be different in some ways I
+            fancy.</line>
+    </p>
+    <p>
+        <feelings n="4">I can't get over how lucky I am to have this chance for I realize how few
+            girls of my age are getting across,</feelings>
+        <feelings n="5">and I understood the grit and pluck which made you encourage me on my great
+            adventure</feelings>
+        <line>andb send me along a path which has proved so dangerous of late.</line>
+    </p>
+    <p>
+        <actions e="5">As we drifted down the river, in the sunset glow with two absurd tugs puffing
+            alongside,</actions>
+        <description>I know that many eyes were moist and that the same thought was in all our
+            minds.</description>
+        <line>"How many 
+            of this ship's company will see that sky-line again!"</line>
+        <actions e="6">It was very quiet, no one spoke much, and, little by little, the glow faded
+            from the sky and one star after another appeared.</actions>
+        <feelings n="6">I knew that you would be looking at those same stars down in Lakewood and
+            that your thoughts and prayers were the same that filled my heart at that moment.
+            Somehow distance does not separate, after all.</feelings>
+    </p>
+    <p>
+        <actions e="7">We waited near the Statue of Liberty until midnight—a rumor had it that a
+            "personage" was to come on board. </actions>
+        <line>This individual was shrouded in mystery until we put to sea when it was given out
+            that the party which had clambered aboard in the night was none other than the Italian
+            Mission.</line>
+    </p>
+    <p>
+        <actions e="8">We waited near the Statue of Liberty until midnight—a rumor had it that a
+            "personage" was to come on board.</actions>
+        <description>This individual was shrouded in mystery until we put to sea when it was given
+            out that the party which had clambered aboard in the night was none other than the
+            Italian Mission. </description>
+        <feelings n="7">Our spirits rose at once for,</feelings>
+        <line>what with Frank Sayre on the boat and these distinguished Italian gentlemen, we shall
+            doubtless be honored by a bigger convoy and so doubly safe.</line>
+        <actions e="9">However, thus far we have but two destroyers following us. They can be seen
+            distinctly outlined against the horizon, one on each side, and seem to be the same
+            somber gray which all ships are affecting in this war. </actions>
+        <actions e="10">A sailor informed me this morning that we weren't in much danger for the
+            first four or five days </actions>
+        <feelings n="8">but that after that I might see some excitement. Here's hoping!</feelings>
+    </p>
+    <p>
+        <line>I have a small inside cabin and my room-mate is quite a character. She is a
+            native of Haiti, voluble and very portly—has four large pieces of baggage in our tiny
+            stateroom, wears a costume which resembles a Mother Hubbard and smokes countless thin
+            cigarettes that smell like incense!</line>
+        <actions e="11">When I appeared, there didn't seem to be much room for me but, as she says,
+            luckily I am small, and I was soon tucked into the upper berth with my belongings! </actions>
+        <line>She really isn't bad and after looking me over carefully told me that she didn't
+            think we would fight and from that time has beamed upon me!</line>
+        <actions e="12">She is going over to join her son who has been fighting with the French
+            since the beginning of the war but will never go back to the Front now, having lost some
+            fingers off each hand.</actions>
+        <feelings n="9">She is so thankful, she says, that he hasn't lost more than his fingers.
+        </feelings>
+    </p>
+    <h2>
+        <src>[Source: _Canteening Overseas_: 1917-1919, published 1920.] </src>
+    </h2>
+</root>

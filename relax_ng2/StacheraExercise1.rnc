@@ -1,0 +1,21 @@
+start = root 
+root = element root {h1, p+, h2}
+h1 = element h1 {from, location, date}
+
+    from = element from {text}
+    location = element location {text}
+    date = element date {text}
+
+p = element p {(actions | feelings | acronym | abbr | line | description)+}
+    actions = element actions {e+, text}
+    e = attribute e {xsd:integer}
+    feelings = element feelings {n+, text}
+    n = attribute n {xsd:integer}
+    
+    acronym = element acronym {text}
+    abbr = element abbr {text}
+    line = element line {text}
+    description = element description {text}
+    
+h2 = element h2 {src}
+src = element src {text}
