@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BlissfulPitch.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <presentation slide="1">
+        <title>Blissful</title>
+        <img theme="main">momentum</img>
+        <author>By: Noah Stachera and Tyler Akam</author>
+    </presentation>
+    <presentation slide="2">
+        <title>The Protagonist</title>
+        <img setting="place">AMIC Building</img>
+        <textbox>
+            <p>There will be supporting groups of characters that don’t play a primary role. 
+               They constantly split his attention and hang over his shoulders. 
+            </p>
+            <example>Ex: Family, Coworkers/friends</example>
+        </textbox>
+        <textbox>
+            <p>This protagonist will try to connect with the audience as someone to relate to
+            </p>            
+        </textbox>
+        <textbox>
+            <p>The protagonist feels unhappy in their life
+                and doesn’t feels content with himself, until he stumbles upon a surreal and atmospheric environment. 
+            </p>
+        </textbox>
+    </presentation>
+    <presentation slide="3">
+        <title>Target Audience</title>
+        <img setting="place">Reed Building</img>
+        <textbox>
+            <p>Target Audience: People that find a great sensation that is hard to let go or invest their time in something that is blissful; a sublime state. 
+            </p>
+        </textbox> 
+        <textbox>
+            <p>The story will follow the Protagonist as they go through their life and will showcase the conflict that leads into his solution that he realizes he must find himself
+            </p> 
+        </textbox>  
+        <textbox>
+            <p>This short film will try to encapsulate the feelings of existential dread and the pursuit of finding bliss/happiness. </p>
+            <p>The protagonist is just looking to get by and has no real dreams or goals in life, until he finds this sublime state, which he wants to desperately hold onto.</p>
+        </textbox>
+        </presentation>
+    <presentation slide="4">
+        <title>Atmospheric State</title>
+        <img setting="place">My house</img>
+        <textbox>
+            <p>In this space discovered by the Protagonist, he finds a Blissful state, but ultimately becomes worrisome and anxious about having to leave it. 
+            </p>
+        </textbox>
+        <textbox>
+            <p>By the end of the short film, the Protagonist will have realized that he gets used to the feelings of this place 
+               and understands that he has to be happy for what he has. </p>
+            <p>He adapts to this surreal place and everything looks the same as his other life, as he comes to the realization that his 
+                mind made up all the anxiety and negativity in his previous life. 
+            </p>
+        </textbox>
+        <textbox>
+            <p>Style: White, overexposed, but dynamic coloring
+               Setting: A surreal, existential, calming atmosphere with most shots being indoors
+            </p>
+        </textbox>
+    </presentation>
+    <presentation slide="5">
+        <title>Equipment and Budget</title>
+        <img type="objects">RED camera, Props, and Budget img</img>
+        <textbox>
+            <p>Equipment:
+                RED Camera/
+                Shoulder Rig
+                Tripod 
+                Dolly 
+                PL interchangeable 
+                Lenses 
+                1 Canon zoom lens
+            </p>
+        </textbox>
+        <textbox>
+            <p>Budget:
+                $0 planned
+                (Some expenses
+                may occur out
+                of pocket, potential
+                Actors, small props)
+                
+                Most props will be
+                from already owned
+                things
+            </p>
+        </textbox>
+    </presentation>
+    
+</xml>

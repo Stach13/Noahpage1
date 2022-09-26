@@ -1,0 +1,14 @@
+start = xml 
+xml = element xml {presentation+} 
+
+presentation = element presentation {(title | img | textbox | slide)+ , author?}
+slide = attribute slide {xsd:int}
+    title = element title {text}
+    img = element img {(theme | setting | type), text}
+        theme = attribute theme {"main"}
+        setting = attribute setting {"place"}
+        type = attribute type {"objects"}
+    author = element author {text}
+    textbox = element textbox {p+ , example?}
+        p = element p {text}
+        example = element example {text}
