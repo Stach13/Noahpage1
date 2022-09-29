@@ -1,0 +1,19 @@
+start = xml 
+xml = element xml { (title | step | measurement | body | ingred | question)+}
+step = element step {time?, n?, amount? , overview?, text}
+    time = attribute time {xsd:duration}
+    n = attribute n {xsd:int} 
+    overview = attribute overview {xsd:int}
+    amount = attribute amount {xsd:decimal}
+    
+body = element body {text}  
+title = element title {text}
+ingred = element ingred {text}
+question = element question {text}
+
+measurement = element measurement {fraction+, i+, text}
+    fraction = attribute fraction {xsd:decimal}
+    i = attribute i {xsd:int} 
+    
+    
+    
