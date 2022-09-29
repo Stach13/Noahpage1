@@ -16,4 +16,3 @@ measurement = element measurement {fraction+, i+, text}
     i = attribute i {xsd:int} 
     
     
-    
