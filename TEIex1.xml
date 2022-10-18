@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Friendship Calender Co.</p>
+            <p>New Britain Conn.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>
+            <date>January 30, 1909 (Saturday)</date>
+            <abbr>E.R.B.</abbr>
+            <caption style="cursive" rend="black">That damned old clock gives me a <unclear reason="illegible">[...]</unclear>. It likes the fun <unclear reason="illegible">[...]</unclear>
+            </caption>
+            <!-- changed the desc to caption -->
+            
+            <date>February 17, 1909 (Tuesday)</date>
+            <figure>
+               <figDesc>a painting with Mr. Behrend and a bug in his hand.</figDesc>
+            </figure>
+            <caption style="cursive" rend="black">Mr. Behrend finds a bug!</caption>
+            <caption style="cursive" rend="red">It under if you have found many <unclear reason="illegible">[...]</unclear>.</caption>
+            <!-- I changed the attribute type to rend under the element caption -->
+            
+            <date>March 12, 1909 (Friday)</date>
+            <figure>
+               <figDesc>drawing of Molly</figDesc>
+            </figure>
+            <caption style="print" rend="black">Molly on snowshoes that Mr. Weir got. Pretty Picture is it not?!</caption>
+            <caption style="cursive" rend="red">Love from Molly.</caption>
+            
+            <date type="holiday">March 17, 1909 (Wednesday) St. Patrick Day</date>
+            <figure>
+               <figDesc>Shamrocks with snakes around the layout and Hammermill building with smoke pouring out the top. </figDesc>                
+            </figure>
+            <caption style="print" rend="black">St. Patrick was a usedful Saint He freightened all the 
+            snakes away- I wish he'd try his art on <emph>smoke</emph> around the Hammermill Some Day!</caption>
+            <caption style="cursive" rend="red">The Hammermill really <unclear reason="illegible">[...]!</unclear></caption>
+                        
+         </p>
+      </body>
+  </text>
+</TEI>
+
