@@ -24,7 +24,7 @@
             <abbr>E.R.B.</abbr>
             <caption style="cursive" rend="black">That damned old clock gives me a <unclear reason="illegible">[...]</unclear>. It likes the fun <unclear reason="illegible">[...]</unclear>
             </caption>
-            <!-- changed the desc to caption -->
+            
             
             <date>February 17, 1909 (Tuesday)</date>
             <figure>
@@ -32,7 +32,7 @@
             </figure>
             <caption style="cursive" rend="black">Mr. Behrend finds a bug!</caption>
             <caption style="cursive" rend="red">It under if you have found many <unclear reason="illegible">[...]</unclear>.</caption>
-            <!-- I changed the attribute type to rend under the element caption -->
+            
             
             <date>March 12, 1909 (Friday)</date>
             <figure>
